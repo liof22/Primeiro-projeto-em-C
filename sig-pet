@@ -5,13 +5,56 @@ int main(){
 	printf("====================================================================\n");
 	printf("====  SIG-Pet Um Sistema de Agendamento de Consultas para Pets  ====\n");
 	printf("====================================================================\n");	
-	printf("==== 1 - Módulo Clientes     ====\n");
-	printf("==== 2 - Módulo Agendamento  ====\n");
-	printf("==== 3 - Módulo Funcionários ====\n");
-	printf("==== 4 - Módulo Relatório    ====\n");
-	printf("==== 5 - Módulo Informações  ====\n");
-	printf("==== 0 - Sair		     ====\n");
-	
-	
-	
+	printf("==== 1 - Módulo Clientes     					====\n");
+	printf("==== 2 - Módulo Agendamentos  					====\n");
+	printf("==== 3 - Módulo Funcionários 					====\n");
+	printf("==== 4 - Módulo Relatório    					====\n");
+	printf("==== 5 - Módulo Informações  					====\n");
+	printf("==== 0 - Sair		     					====\n");
+	printf(" \n");
+	printf("============================================\n");
+    printf("=====   Você está no Módulo Clientes    ====\n");
+    printf("============================================\n");
+    printf("===== 1 - Cadastrar Cliente             ====\n");
+    printf("===== 2 - Pesquisar Cliente             ====\n");
+    printf("===== 3 - Atualizar Cliente             ====\n");
+    printf("===== 4 - Excluir Cliente               ====\n");
+    printf("===== 5 - Retornar ao Menu principal    ====\n");
+    printf(" \n");
+    printf("=============================================\n");
+    printf("=====  Você está no Módulo Agendamentos =====\n");
+    printf("=============================================\n");
+    printf("===== 1 - Cadastrar Agendamento         =====\n");
+    printf("===== 2 - Pesquisar Agendamento         =====\n");
+    printf("===== 3 - Atualizar Agendamento         =====\n");
+    printf("===== 4 - Excluir Agendamento           =====\n");
+    printf("===== 5 - Retornar ao Menu principal    =====\n");
+    printf(" \n");
+    printf("============================================\n");
+    printf("=====  Você está no Módulo Funcionários ====\n");
+    printf("============================================\n");
+    printf("===== 1 - Cadastrar Funcionário         ====\n");
+    printf("===== 2 - Pesquisar Funcionário         ====\n");
+    printf("===== 3 - Atualizar Funcionário         ====\n");
+    printf("===== 4 - Excluir Funcionário           ====\n");
+    printf("===== 5 - Retornar ao Menu principal    ====\n");
+    printf(" \n");
+    printf("============================================\n");
+    printf("=====   Você está no Módulo Relatório   ====\n");
+    printf("============================================\n");
+    printf("===== 1 - Relatório de Clientes         ====\n");
+    printf("===== 2 - Relatório de Agendamentos     ====\n");
+    printf("===== 3 - Relatório de Funcionários     ====\n");
+    printf("===== 4 - Retornar ao Menu principal    ====\n");
+    printf(" \n");
+    printf("=============================================\n");
+    printf("=====  Você está no Módulo Informações   ====\n");
+    printf("=============================================\n");
+    printf("===== 1 - Sobre                          ====\n");
+    printf("===== 2 - Versão                         ====\n");
+    printf("===== 3 - Autor                          ====\n");
+    printf("===== 4 - Retornar ao Menu principal     ====\n");
+    
+    
+    return 0;
 }
